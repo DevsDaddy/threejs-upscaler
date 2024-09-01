@@ -1,4 +1,6 @@
 # Three JS Upscaler
+![Three JS Upscaler](https://github.com/user-attachments/assets/9f8c6b4c-2257-47f8-b0eb-219e74ba3e4b)
+
 **Three JS Upscaler** — is an algorithm to enhance real-time animations and images using simple and efficient shaders. 
 To implement the plugin in **Three.js based** on the idea of AMD FSR-like upscaling, we need to create a shader that will apply filtering and upscaling of the image in real time. The plugin will work cross-platform thanks to WebGL.
 
